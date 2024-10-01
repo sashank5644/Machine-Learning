@@ -1,0 +1,12 @@
+LICENSE
+
+Code is only free to test for project deployment and user visualization.
+
+
+Acknowledgements
+
+Dataset 'realestate.csv'
+Pandas
+Scikit-learn
+NumPy
+Official documentation of Pandas and Scikit-learn
