@@ -17,3 +17,7 @@ numpy
 
     pip install pandas scikit-learn numpy
 
+Clone repository
+
+    git clone https://github.com/yourusername/repository-name.git
+    
