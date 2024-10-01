@@ -20,4 +20,6 @@ numpy
 Clone repository
 
     git clone https://github.com/yourusername/repository-name.git
-    
+
+
+Run on editor
