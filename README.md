@@ -2,7 +2,7 @@
 
 **Real Estate Price Prediction with Linear Regression**
 
-[Overview]
+Overview
 
 Linear regression analysis on a real estate dataset to predict house prices based on house age, distance to MRT station, and number of convenience stores.
 
@@ -26,7 +26,7 @@ Run on editor
 
 **Image Classification**
 
-[Overview]
+Overview
 
 An image classification project that trains a Convolutional Neural Network (CNN) to accurately classify pet images into two categories; cat or dog.
 
