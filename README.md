@@ -2,17 +2,15 @@
 
 **Real Estate Price Prediction with Linear Regression**
 
+[Overview]
+
 Linear regression analysis on a real estate dataset to predict house prices based on house age, distance to MRT station, and number of convenience stores.
-
-Overview
-
-This project performs a linear regression analysis on a real estate dataset to predict house prices based on various features such as house age, distance to the nearest MRT station, and the number of convenience stores.
 
 To Run and Test Locally
 
 Requirements
 
-Python 3.x
+Python 3
 pandas
 scikit-learn
 numpy
@@ -28,4 +26,14 @@ Run on editor
 
 **Image Classification**
 
+[Overview]
+
 An image classification project that trains a Convolutional Neural Network (CNN) to accurately classify pet images into two categories; cat or dog.
+
+Test locally
+
+Requirements
+
+Python 3
+pandas
+numpy
