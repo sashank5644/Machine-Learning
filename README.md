@@ -1,4 +1,6 @@
-# Real-Estate-Price-Prediction-with-Linear-Regression
+# Machine Learning Projects
+
+**Real Estate Price Prediction with Linear Regression**
 Linear regression analysis on a real estate dataset to predict house prices based on house age, distance to MRT station, and number of convenience stores.
 
 
