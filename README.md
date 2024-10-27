@@ -26,4 +26,6 @@ Clone repository
 
 Run on editor
 
-**
+**Image Classification**
+
+An image classification project that trains a Convolutional Neural Network (CNN) to accurately classify pet images into two categories; cat or dog.
